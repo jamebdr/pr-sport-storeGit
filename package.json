@@ -1,0 +1,8 @@
+{
+  "name": "pr-sport-website",
+  "version": "1.0.0",
+  "description": "PR Sport Soccer Gear Website",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
